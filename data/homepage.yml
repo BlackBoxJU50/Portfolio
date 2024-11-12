@@ -1,0 +1,56 @@
+---
+banner:
+  title: Hi! I’m Hasib
+social:
+  twitter: ""
+  linkedin: Hasibahmed
+  github: BlackBoxJU50
+  gitlab: ""
+  facebook: "Md Hasib Ahmed Khan"
+  instagram: ""
+  gmail: ahmedhasib2224@gmail.com
+about:
+  enable: true
+  content: A student of  Computer Science & ENgineering at  Jahangitnagar University
+  button:
+    btnText: Find out more
+    URL: "/about"
+skill:
+  enable: true
+  item:
+    - title: JavaScript
+      logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+      description: Details coming soon, contact me if you want to know more
+experience:
+  enable: true
+  item:
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+      title: init.g
+      company: Google
+      duration: November 2019
+
+certifications:
+  enable: true
+  item:
+    - title: FreeCodeCamp
+      image: https://th.bing.com/th/id/OIP.TNJU1nMoxWew0v91Y8bauwHaEK?rs=1&pid=ImgDetMain
+      url: https://www.youracclaim.com/badges/b4cf7a86-eb83-478e-bfd0-9f427c3474a0/public_url
+education:
+  enable: true
+  item:
+    - title: BSc Computer Science
+      year: 2022 - Present
+      academy: Jahangirnagar University
+      image: https://w7.pngwing.com/pngs/437/522/png-transparent-jahangirnagar-university-school-college-dhaka-others-text-logo-symmetry.png
+leadership:
+  enable: true
+  item:
+      title: Team Captain
+    
+      company: Football Team of Annada gov't High School
+      image: https://w7.pngwing.com/pngs/437/522/png-transparent-jahangirnagar-university-school-college-dhaka-others-text-logo-symmetry.png
+      duration: September 2016 - July 2018
+portfolio:
+  filter:
+    - label: Web Dev
+      value: web-dev
