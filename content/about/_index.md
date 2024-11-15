@@ -6,8 +6,13 @@ author : "Md Hasib Ahmed Khan"
 authorImage: "images/about/pp2.jpg"
 ---
 
-Hi! I'm Sam, a second year Computer Science student from Durham University. 
-I like doing personal projects, which you will find in the portfolio page of this website. 
-My specialties can be found on the homepage, of which most are web development or cyber security.
+**Md Hasib Ahmed Khan,**
+ is a driven Computer Science student at Jahangirnagar University, Bangladesh, aspiring to make a mark as a skilled software and web developer. Passionate about learning and innovation, he actively develops his technical skills to stay at the forefront of the field. Hasib thrives on creative problem-solving, bringing a fresh perspective to his projects. Alongside his professional goals, he values quality time with his family, believing it fuels his drive and creativity. His interests also extend to sports, which he finds essential for maintaining a balanced and disciplined approach to life and work.
 
-I am currently available for part time remote work, but will be looking for full time employment from summer 2021.
+
+ # Interest
+Web developing and Software Developing
+
+## Any thing else ?
+
+Love to play cricket 

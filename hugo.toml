@@ -1,4 +1,4 @@
-baseURL = "http://example.com" # The URL of your site
+baseURL = "" # The URL of your site
 languageCode = "en-gb" # The language you want to display the site in
 title = "Hasib" # The title you want to appear in the address bar
 theme = "hugo-developer-portfolio" # The theme, don't change this
@@ -23,6 +23,8 @@ theme = "hugo-developer-portfolio" # The theme, don't change this
 
 # navigation
 [menu]
+  
+
 
   [[menu.main]]
   name = "About"
@@ -58,7 +60,7 @@ author = "Md Hasib Ahmed"
 
   [params.footer]
   email = "ahmedhasib2224@gmai.com"
-  address = "Savar,Dhaka<Bangladesh"
+  address = "Azimpur,Dhaka,Bangladesh"
   googlemaps = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwbHYJaUqfEgRK0Ui9dVGimc&key=AIzaSyAE_4rVAKux_DSPcb_OdSRDaovtPOSk_3U"
 
 [markup]

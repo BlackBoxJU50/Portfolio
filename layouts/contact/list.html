@@ -1,0 +1,56 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section>
+  <div class="uk-container">
+    <form class="uk-form-horizontal uk-margin-large" action="{{.Site.Params.contact.formAction}}" method="post">
+
+      <div class="uk-margin">
+        <label class="uk-form-label font-bold" for="name">Name</label>
+        <div class="uk-form-controls">
+          <input class="uk-input" name="name" id="name" type="text" placeholder="John Doe">
+        </div>
+      </div>
+
+      <div class="uk-margin">
+        <label class="uk-form-label font-bold" for="email">Email</label>
+        <div class="uk-form-controls">
+          <input class="uk-input" name="email" id="email" type="text" placeholder="email@example.com">
+        </div>
+      </div>
+
+      <div class="uk-margin">
+        <label class="uk-form-label font-bold" for="message">Message</label>
+        <div class="uk-form-controls">
+          <textarea class="uk-textarea" name="message" id="message" rows="5" placeholder="Your message here"></textarea>
+        </div>
+      </div>
+
+      <button class="submit-button uk-align-center uk-button uk-button-default">Submit</button>
+
+    </form>
+  </div>
+</section>
+
+<style>
+  .submit-button {
+    background-color: #3b82f6; /* Blue background */
+    font-weight: bold; /* Bold text */
+    color: white; /* White text */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Add padding */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+  }
+
+  .submit-button:hover {
+    background-color: #2563eb; /* Darker blue on hover */
+  }
+
+  .submit-button:active {
+    background-color: #1e40af; /* Even darker blue when clicked */
+  }
+</style>
+
+{{ end }}

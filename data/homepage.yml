@@ -11,31 +11,90 @@ social:
   gmail: ahmedhasib2224@gmail.com
 about:
   enable: true
-  content: A student of  Computer Science & ENgineering at  Jahangitnagar University
+  content: A student of  Computer Science & Engineering at  Jahangitnagar University
   button:
     btnText: Find out more
     URL: "/about"
 skill:
   enable: true
   item:
+    skill:
+  enable: true
+  item:
+   skill:
+  enable: true
+  item:
     - title: JavaScript
-      logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
       description: Details coming soon, contact me if you want to know more
+
+    - title: C
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg
+      description: Details coming soon, contact me if you want to know more
+
+    - title: Python
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+      description: Details coming soon, contact me if you want to know more
+
+    - title: HTML & CSS
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
+      description: Details coming soon, contact me if you want to know more
+
+    - title: Tailwind CSS
+      logo: https://logowik.com/content/uploads/images/tailwind-css7675.logowik.com.webp
+      description: Details coming soon, contact me if you want to know more
+
+    - title: C++
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
+      description: Details coming soon, contact me if you want to know more
+
+    - title: Arduino Uno
+      logo: https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg
+      description: Details coming soon, contact me if you want to know more
+
+    - title: ESP8266
+      logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB1Oiv1GWvsiQzJu2mKbMRAojprlNMhNEMhg&s
+      description: Details coming soon, contact me if you want to know more
+
+    - title: Raspberry Pi
+      logo: https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg
+      description: Details coming soon, contact me if you want to know more
+
+    - title: IoT
+      logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaq6k7VKlV8MkY9JhCaburiFllD2_baeAFaA&s
+      description: Details coming soon, contact me if you want to know more
+
+    - title: TypeScript
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg
+      description: Details coming soon, contact me if you want to know more
+
+    - title: Database Management with MySQL
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+      description: Details coming soon, contact me if you want to know more
+
 experience:
   enable: true
   item:
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
-      title: init.g
-      company: Google
-      duration: November 2019
+   
+
+    - logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUp19WO8UaZiLMqHg_NfROp72V49f7lyVZsA&s
+      title: Volunteer
+      company: NCPC (National Collegiate Programming Contest)
+      duration: Feb-2024
+      description: Assisted in organizing and managing the NCPC programming contest, helping participants and ensuring smooth event coordination.
 
 certifications:
   enable: true
   item:
     - title: FreeCodeCamp
       image: https://th.bing.com/th/id/OIP.TNJU1nMoxWew0v91Y8bauwHaEK?rs=1&pid=ImgDetMain
+      url: https://www.freecodecamp.org/certification/Hasib_Khan_JU/responsive-web-design
+
+    - title: Science Fair 2017
+      image: https://img.freepik.com/free-vector/flat-webinar-template-science-research_23-2149493131.jpg?w=360
       url: https://www.youracclaim.com/badges/b4cf7a86-eb83-478e-bfd0-9f427c3474a0/public_url
-education:
+
+Education: 
   enable: true
   item:
     - title: BSc Computer Science
